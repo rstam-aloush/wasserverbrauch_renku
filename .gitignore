@@ -1,0 +1,19 @@
+# R and RStudio
+.Rhistory
+.RData
+.Rproj.user/
+.Ruserdata
+.Rproj
+.Renviron
+
+# Python (falls im Projekt)
+__pycache__/
+*.pyc
+
+# Build artefacts
+data/
+*.xlsx
+*.csv
+*.log
+
+
